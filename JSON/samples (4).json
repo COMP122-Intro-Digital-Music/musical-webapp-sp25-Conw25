@@ -1,0 +1,10 @@
+[
+  {
+    "name": "times 10",
+    "file": "samples/goku-goes-ssb-kaioken-x10-english-dub-ep-made-with-Voicemod.mp3",
+    "bpm": 120,
+    "loop": "35s",
+    "grain": "0.06",
+    "overlap": "0.02"
+  }
+]
