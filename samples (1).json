@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Goku",
+    "file": "samples/now-i'll-show-you-the-kaioken-made-with-Voicemod.mp3",
+    "bpm": 120,
+    "loop": "30s",
+    "grain": "0.06",
+    "overlap": "0.02"
+  }
+]
