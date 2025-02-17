@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Kamehameha",
+    "file": "samples/epic-goku-kamehameha-soundtrack-made-with-Voicemod.mp3",
+    "bpm": 120,
+    "loop": "35s",
+    "grain": "0.06",
+    "overlap": "0.02"
+  }
+]
