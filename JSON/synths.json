@@ -1,1 +1,31 @@
-[]
+[
+    {
+    "name": "avatar Love",
+    "type": "Synth",
+    "settings": {
+      "volume": -3,
+      "detune": 0,
+      "portamento": "0.1",
+      "envelope": {
+        "attack": "0.025",
+        "attackCurve": "exponential",
+        "decay": "0.015",
+        "decayCurve": "linear",
+        "release": "1.00",
+        "releaseCurve": "step",
+        "sustain": "0.205"
+      },
+      "oscillator": {
+        "partialCount": 2,
+        "partials": [
+          1.2732395447351628,
+          0
+        ],
+        "phase": 102,
+        "type": "fatsquare2",
+        "count": 4,
+        "spread": 22
+      }
+    }
+  }
+]
